@@ -1,0 +1,427 @@
+[
+  {
+    "TaskListItems": [
+      {
+        "id": "1047",
+        "tags": [{ "id": "301", "name": "frontend" }],
+        "name": "Responsive footer",
+        "description": "Fix footer layout on mobile",
+        "responsible": "Uma"
+      },
+      {
+        "id": "1048",
+        "tags": [{ "id": "305", "name": "qa" }],
+        "name": "Test flaky signup",
+        "description": "Investigate intermittent signup test failures",
+        "responsible": "Victor"
+      },
+      {
+        "id": "1049",
+        "tags": [{ "id": "302", "name": "backend" }],
+        "name": "Add rate limiting",
+        "description": "Prevent abuse on public endpoints",
+        "responsible": "Wendy"
+      },
+      {
+        "id": "1050",
+        "tags": [],
+        "name": "Update favicon",
+        "description": "Replace outdated icon with new logo",
+        "responsible": "Xander"
+      },
+      {
+        "id": "1051",
+        "tags": [{ "id": "304", "name": "design" }],
+        "name": "Color contrast audit",
+        "description": "Improve accessibility of color palette",
+        "responsible": "Yuki"
+      },
+      {
+        "id": "1052",
+        "tags": [{ "id": "303", "name": "urgent" }],
+        "name": "Fix 500 errors on profile",
+        "description": "Resolve unhandled exception in profile API",
+        "responsible": "Zane"
+      },
+      {
+        "id": "1053",
+        "tags": [{ "id": "306", "name": "devops" }],
+        "name": "ECR cleanup",
+        "description": "Purge old Docker image versions",
+        "responsible": "Alice"
+      },
+      {
+        "id": "1054",
+        "tags": [{ "id": "305", "name": "qa" }],
+        "name": "Cross-browser testing",
+        "description": "Validate UI behavior on Firefox and Safari",
+        "responsible": "Ben"
+      }
+    ]
+  },
+  {
+    "TaskListItems": [
+      {
+        "id": "1055",
+        "tags": [{ "id": "301", "name": "frontend" }],
+        "name": "Fix grid layout bug",
+        "description": "Correct column overflow on dashboard",
+        "responsible": "Cara"
+      },
+      {
+        "id": "1056",
+        "tags": [],
+        "name": "Clean up old branches",
+        "description": "Delete merged and stale branches in repo",
+        "responsible": "Derek"
+      }
+    ]
+  },
+  {
+    "TaskListItems": [
+      {
+        "id": "1057",
+        "tags": [{ "id": "304", "name": "design" }],
+        "name": "Refresh error pages",
+        "description": "Redesign 404 and 500 pages with illustrations",
+        "responsible": "Ella"
+      },
+      {
+        "id": "1058",
+        "tags": [{ "id": "302", "name": "backend" }],
+        "name": "DB connection pool tuning",
+        "description": "Adjust pool size for better throughput",
+        "responsible": "Finn"
+      },
+      {
+        "id": "1059",
+        "tags": [{ "id": "303", "name": "urgent" }],
+        "name": "Restore logs after crash",
+        "description": "Recover log files lost in system crash",
+        "responsible": "Gina"
+      },
+      {
+        "id": "1060",
+        "tags": [{ "id": "306", "name": "devops" }],
+        "name": "Switch to Alpine base image",
+        "description": "Reduce Docker image sizes",
+        "responsible": "Hank"
+      },
+      {
+        "id": "1061",
+        "tags": [{ "id": "305", "name": "qa" }],
+        "name": "Refactor test suite",
+        "description": "Break large tests into smaller units",
+        "responsible": "Ivy"
+      },
+      {
+        "id": "1062",
+        "tags": [{ "id": "301", "name": "frontend" }],
+        "name": "Tooltip fixes",
+        "description": "Ensure hover tooltips render over modals",
+        "responsible": "Jake"
+      },
+      {
+        "id": "1063",
+        "tags": [{ "id": "304", "name": "design" }],
+        "name": "Update empty states",
+        "description": "Improve messages when no data is present",
+        "responsible": "Kim"
+      }
+    ]
+  },
+  {
+    "TaskListItems": [
+      {
+        "id": "1064",
+        "tags": [{ "id": "302", "name": "backend" }],
+        "name": "Service timeout escalation",
+        "description": "Retry on 503 errors with exponential backoff",
+        "responsible": "Leo"
+      }
+    ]
+  },
+  {
+    "TaskListItems": [
+      {
+        "id": "1065",
+        "tags": [
+          {
+            "id": "301",
+            "name": "frontend"
+          }
+        ],
+        "name": "Keyboard navigation support",
+        "description": "Improve accessibility with keyboard shortcuts",
+        "responsible": "Mia"
+      },
+      {
+        "id": "1066",
+        "tags": [
+          {
+            "id": "305",
+            "name": "qa"
+          }
+        ],
+        "name": "Generate test coverage report",
+        "description": "Measure code coverage and report gaps",
+        "responsible": "Nico"
+      },
+      {
+        "id": "1067",
+        "tags": [],
+        "name": "Add changelog to repo",
+        "description": "Create structured changelog using keep-a-changelog format",
+        "responsible": "Olive"
+      },
+      {
+        "id": "1068",
+        "tags": [
+          {
+            "id": "306",
+            "name": "devops"
+          }
+        ],
+        "name": "Alerting policy review",
+        "description": "Remove noisy alerts and tune thresholds",
+        "responsible": "Paul"
+      },
+      {
+        "id": "1069",
+        "tags": [
+          {
+            "id": "304",
+            "name": "design"
+          }
+        ],
+        "name": "Update modal designs",
+        "description": "Unify styling of all modal dialogs",
+        "responsible": "Quinn"
+      },
+      {
+        "id": "1070",
+        "tags": [
+          {
+            "id": "303",
+            "name": "urgent"
+          }
+        ],
+        "name": "Broken export CSV",
+        "description": "Fix malformed headers in downloaded CSVs",
+        "responsible": "Ravi"
+      },
+      {
+        "id": "1071",
+        "tags": [
+          {
+            "id": "302",
+            "name": "backend"
+          }
+        ],
+        "name": "Optimize DB indexes",
+        "description": "Identify and add missing indexes",
+        "responsible": "Sam"
+      },
+      {
+        "id": "1072",
+        "tags": [
+          {
+            "id": "301",
+            "name": "frontend"
+          }
+        ],
+        "name": "Input focus styles",
+        "description": "Ensure visible outlines on keyboard navigation",
+        "responsible": "Tina"
+      }
+    ]
+  },
+  {
+    "TaskListItems": [
+      {
+        "id": "1073",
+        "tags": [{ "id": "305", "name": "qa" }],
+        "name": "Regression checklist update",
+        "description": "Expand QA checklist for critical flows",
+        "responsible": "Uma"
+      },
+      {
+        "id": "1074",
+        "tags": [{ "id": "304", "name": "design" }],
+        "name": "Typography scale review",
+        "description": "Ensure consistent font sizes and line heights",
+        "responsible": "Victor"
+      },
+      {
+        "id": "1075",
+        "tags": [],
+        "name": "Write deployment guide",
+        "description": "Document staging and production deployment steps",
+        "responsible": "Wendy"
+      }
+    ]
+  },
+  {
+    "TaskListItems": [
+      {
+        "id": "1076",
+        "tags": [{ "id": "306", "name": "devops" }],
+        "name": "Rotate credentials",
+        "description": "Update expired AWS keys and secrets",
+        "responsible": "Xander"
+      },
+      {
+        "id": "1077",
+        "tags": [{ "id": "302", "name": "backend" }],
+        "name": "Add audit logging",
+        "description": "Track sensitive user actions in audit logs",
+        "responsible": "Yuki"
+      },
+      {
+        "id": "1078",
+        "tags": [{ "id": "301", "name": "frontend" }],
+        "name": "Improve loading states",
+        "description": "Replace spinner with skeleton loaders",
+        "responsible": "Zane"
+      },
+      {
+        "id": "1079",
+        "tags": [{ "id": "303", "name": "urgent" }],
+        "name": "Patch infinite loop bug",
+        "description": "Fix recursion issue in form rendering",
+        "responsible": "Alice"
+      }
+    ]
+  },
+  {
+    "TaskListItems": [
+      {
+        "id": "1080",
+        "tags": [{ "id": "305", "name": "qa" }],
+        "name": "Migrate to Playwright",
+        "description": "Replace Cypress tests with Playwright",
+        "responsible": "Ben"
+      },
+      {
+        "id": "1081",
+        "tags": [],
+        "name": "Review license compliance",
+        "description": "Check all dependencies for license compatibility",
+        "responsible": "Cara"
+      }
+    ]
+  },
+  {
+    "TaskListItems": [
+      {
+        "id": "1082",
+        "tags": [{ "id": "304", "name": "design" }],
+        "name": "Branding update",
+        "description": "Apply new branding across all pages",
+        "responsible": "Derek"
+      },
+      {
+        "id": "1083",
+        "tags": [{ "id": "302", "name": "backend" }],
+        "name": "Deprecate old API v1",
+        "description": "Plan and announce removal of API v1",
+        "responsible": "Ella"
+      },
+      {
+        "id": "1084",
+        "tags": [{ "id": "301", "name": "frontend" }],
+        "name": "Optimize bundle size",
+        "description": "Remove unused dependencies and split code",
+        "responsible": "Finn"
+      },
+      {
+        "id": "1085",
+        "tags": [{ "id": "306", "name": "devops" }],
+        "name": "Add health check endpoints",
+        "description": "Ensure all services expose liveness probes",
+        "responsible": "Gina"
+      },
+      {
+        "id": "1086",
+        "tags": [{ "id": "303", "name": "urgent" }],
+        "name": "Fix broken password reset",
+        "description": "Restore missing token validation logic",
+        "responsible": "Hank"
+      },
+      {
+        "id": "1087",
+        "tags": [{ "id": "305", "name": "qa" }],
+        "name": "Mobile viewport tests",
+        "description": "Validate layout for common screen sizes",
+        "responsible": "Ivy"
+      },
+      {
+        "id": "1088",
+        "tags": [{ "id": "304", "name": "design" }],
+        "name": "Add illustrations to onboarding",
+        "description": "Visual support for onboarding steps",
+        "responsible": "Jake"
+      },
+      {
+        "id": "1089",
+        "tags": [],
+        "name": "Organize project folder structure",
+        "description": "Group code by domain context",
+        "responsible": "Kim"
+      },
+      {
+        "id": "1090",
+        "tags": [{ "id": "306", "name": "devops" }],
+        "name": "Container memory tuning",
+        "description": "Reduce memory limits for idle services",
+        "responsible": "Leo"
+      },
+      {
+        "id": "1091",
+        "tags": [{ "id": "302", "name": "backend" }],
+        "name": "Background job retries",
+        "description": "Add exponential backoff to failed jobs",
+        "responsible": "Mia"
+      }
+    ]
+  },
+  {
+    "TaskListItems": [
+      {
+        "id": "1092",
+        "tags": [{ "id": "301", "name": "frontend" }],
+        "name": "Button size normalization",
+        "description": "Ensure all buttons follow consistent sizing rules",
+        "responsible": "Nico"
+      },
+      {
+        "id": "1093",
+        "tags": [{ "id": "305", "name": "qa" }],
+        "name": "Add browserstack tests",
+        "description": "Expand coverage with cloud browser testing",
+        "responsible": "Olive"
+      },
+      {
+        "id": "1094",
+        "tags": [],
+        "name": "Add FAQs page",
+        "description": "Compile and present frequently asked questions",
+        "responsible": "Paul"
+      },
+      {
+        "id": "1095",
+        "tags": [{ "id": "304", "name": "design" }],
+        "name": "Illustration guidelines",
+        "description": "Create rules for adding illustrations in UI",
+        "responsible": "Quinn"
+      },
+      {
+        "id": "1096",
+        "tags": [{ "id": "303", "name": "urgent" }],
+        "name": "Broken role switching",
+        "description": "Restore missing permissions after role change",
+        "responsible": "Ravi"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+{
+  "SideMenuItems": [
+    {
+      "id": "201",
+      "name": "Atlas Integration",
+      "description": "Integrate third-party APIs into the Atlas system"
+    },
+    {
+      "id": "202",
+      "name": "Nova Compliance",
+      "description": "Ensure Nova application meets regulatory standards"
+    },
+    {
+      "id": "203",
+      "name": "Echo Performance",
+      "description": "Optimize backend services for Echo's responsiveness"
+    },
+    {
+      "id": "204",
+      "name": "Vega Documentation",
+      "description": "Create technical documentation for Vega modules"
+    },
+    {
+      "id": "205",
+      "name": "Helios DevOps",
+      "description": "Automate deployment pipelines for Helios project"
+    },
+    {
+      "id": "206",
+      "name": "Aether UI Kit",
+      "description": "Develop reusable UI components for Aether"
+    },
+    {
+      "id": "207",
+      "name": "Chronos Scheduler",
+      "description": "Implement task scheduling system in Chronos"
+    },
+    {
+      "id": "208",
+      "name": "Iris Bugfix",
+      "description": "Resolve critical issues in the Iris mobile client"
+    },
+    {
+      "id": "209",
+      "name": "Selene Reports",
+      "description": "Add advanced reporting features to Selene"
+    },
+    {
+      "id": "210",
+      "name": "Janus Access Control",
+      "description": "Design role-based access for Janus dashboard"
+    },
+    {
+      "id": "211",
+      "name": "Iris Bugfix",
+      "description": "Resolve critical issues in the Iris mobile client"
+    },
+    {
+      "id": "212",
+      "name": "Selene Reports",
+      "description": "Add advanced reporting features to Selene"
+    },
+    {
+      "id": "213",
+      "name": "Janus Access Control",
+      "description": "Design role-based access for Janus dashboard"
+    }
+  ]
+}
